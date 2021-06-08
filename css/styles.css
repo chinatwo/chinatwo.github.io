@@ -11038,9 +11038,12 @@ p {
 }
 
 .imgBox {
-  width: 735px;
+  position: relative;
   float: left;
 }
 .imgBox img{
-  width: 220px;
+  border-radius: 0.25rem !important;
+  width: 30%;
+  height: auto;
+  margin-bottom: 1rem !important;
 }
