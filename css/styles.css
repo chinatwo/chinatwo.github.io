@@ -11036,3 +11036,11 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
+.imgBox {
+  width: 735px;
+  float: left;
+}
+.imgBox img{
+  width: 220px;
+}
