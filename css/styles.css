@@ -11047,3 +11047,13 @@ p {
   height: auto;
   margin-bottom: 1rem !important;
 }
+.imgBoxOne{
+  position: relative;
+  float: left;   
+}
+.imgBoxOne img{
+  border-radius: 0.25rem !important;
+  width: 60%;
+  height: auto;
+  margin-bottom: 1rem !important;
+}
