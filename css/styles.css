@@ -11053,7 +11053,23 @@ p {
 }
 .imgBoxOne img{
   border-radius: 0.25rem !important;
-  width: 60%;
+  width: 90%;
   height: auto;
   margin-bottom: 1rem !important;
+}
+.imgBoxTwo{
+  position: relative;
+  float: left;   
+}
+.imgBoxTwo img{
+  border-radius: 0.25rem !important;
+  margin-bottom: 1rem !important;
+}
+.imgBoxTwo .imgBoxTwoV{
+  width: 20%;
+  height: auto;
+}
+.imgBoxTwo .imgBoxTwoIV{
+  width: 70%;
+  height: auto;
 }
